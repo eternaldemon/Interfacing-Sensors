@@ -1,4 +1,8 @@
-# **Interfacing DHT11 Humidity and Temperature Sensor Module with Raspberry Pi 3 a/b**
+# **Interfacing DHT11 Humidity and Temperature Sensor Module with Raspberry Pi 3 (any version)**
+
+**NOTE: Be sure to download and install the Adafruit_DHT library to run this sensor properly**
+
+The link to the library is https://github.com/adafruit/Adafruit_Python_DHT
 
 The Code to run for the sensor is given in the python file (.py).
 
