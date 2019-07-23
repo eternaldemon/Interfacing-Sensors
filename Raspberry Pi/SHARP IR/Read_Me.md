@@ -6,4 +6,6 @@ The Code to run for the sensor is given in the python file (.py).
 
 The Circuit Diagram is given in the JPG file.
 
+**THE CODE AND SCHEMATICS FOR LCD IS GIVEN IN A FOLDER NAMED LCD(16x2) INSIDE INTERFACING-SENSORS/RASPBERRY-PI/**
+
 
